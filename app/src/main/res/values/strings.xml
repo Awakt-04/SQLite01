@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLite01</string>
+    <string name="titulo">EjemploSQLite</string>
+    <string name="Nombre">Nombre</string>
+    <string name="PesoMochila">Peso Mochila</string>
+    <string name="EstadoVital">Estado Vital</string>
+    <string name="Clase">Clase</string>
+    <string name="Raza">Raza</string>
+    <string name="NombreRec">Nombre Rec</string>
+    <string name="PesoMochilaRec">Peso Mochila Rec</string>
+    <string name="EstadoVitalRec">Estado Vital Rec</string>
+    <string name="ClaseRec">Clase Rec</string>
+    <string name="RazaRec">Raza Rec</string>
+    <string name="Boton1">Guardar Personaje</string>
+    <string name="Boton2">Recuperar\nPersonaje</string>
+    <string name="SelectorPersonaje">Selector Personaje</string>
+</resources>
